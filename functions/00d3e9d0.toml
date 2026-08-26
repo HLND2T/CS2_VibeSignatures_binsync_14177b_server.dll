@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420891Z
+addr = 0xd3e9d0
+size = 0xd5
+name = "CSource2Server_OnStreamEntitiesFromFileCompleted"
+
+[header]
+name = "CSource2Server_OnStreamEntitiesFromFileCompleted"
+addr = 0xd3e9d0
+
+[header.args]

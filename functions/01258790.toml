@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.421113Z
+addr = 0x1258790
+size = 0x18b
+name = "CEntityKeyValues_LoadFromContext"
+type = "char"
+
+[header]
+name = "CEntityKeyValues_LoadFromContext"
+addr = 0x1258790
+type = "char"
+
+[header.args]

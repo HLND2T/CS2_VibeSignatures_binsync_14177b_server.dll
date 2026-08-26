@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420949Z
+addr = 0xdadf90
+size = 0x33b
+name = "CBaseEntity_SetGroundEntity"
+type = "long long"
+
+[header]
+name = "CBaseEntity_SetGroundEntity"
+addr = 0xdadf90
+type = "long long"
+
+[header.args]

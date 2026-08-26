@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420647Z
+addr = 0xbf3e20
+size = 0x16c
+name = "CLoopModeGame_dtor"
+type = "unsigned long long *"
+
+[header]
+name = "CLoopModeGame_dtor"
+addr = 0xbf3e20
+type = "unsigned long long *"
+
+[header.args]

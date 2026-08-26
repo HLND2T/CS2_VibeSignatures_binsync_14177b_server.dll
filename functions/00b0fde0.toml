@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:14.407355Z
+addr = 0xb0fde0
+size = 0x27
+name = "CBaseAnimGraph_GetAnimationController"
+type = "long long"
+
+[header]
+name = "CBaseAnimGraph_GetAnimationController"
+addr = 0xb0fde0
+type = "long long"
+
+[header.args]

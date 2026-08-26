@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420944Z
+addr = 0xda8640
+size = 0x16e
+name = "PhysCollisionDust"
+type = "float *"
+
+[header]
+name = "PhysCollisionDust"
+addr = 0xda8640
+type = "float *"
+
+[header.args]

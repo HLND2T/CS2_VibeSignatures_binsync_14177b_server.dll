@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420520Z
+addr = 0xb33520
+size = 0x3f
+name = "CBasePlayerController_SetPlayerName"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_SetPlayerName"
+addr = 0xb33520
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:25.607339Z
+addr = 0x1247310
+size = 0x36b
+name = "CEntitySystem_ExecuteQueuedSetInPVS"
+type = "void"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedSetInPVS"
+addr = 0x1247310
+type = "void"
+
+[header.args]

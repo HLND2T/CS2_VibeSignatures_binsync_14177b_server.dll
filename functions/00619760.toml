@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420207Z
+addr = 0x619760
+size = 0x16f
+name = "CBaseEntity_ScriptGetAttributeFloatValue"
+
+[header]
+name = "CBaseEntity_ScriptGetAttributeFloatValue"
+addr = 0x619760
+
+[header.args]

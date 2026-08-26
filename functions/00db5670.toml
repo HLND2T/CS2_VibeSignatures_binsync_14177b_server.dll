@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420951Z
+addr = 0xdb5670
+size = 0xd9
+name = "CPhysicsEntitySolver_PhysEnableEntityCollisions"
+type = "int"
+
+[header]
+name = "CPhysicsEntitySolver_PhysEnableEntityCollisions"
+addr = 0xdb5670
+type = "int"
+
+[header.args]

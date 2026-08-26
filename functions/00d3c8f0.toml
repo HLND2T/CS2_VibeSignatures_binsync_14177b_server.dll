@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:21.828320Z
+addr = 0xd3c8f0
+size = 0x63e
+name = "CSource2Server_GameFrame"
+type = "long long"
+
+[header]
+name = "CSource2Server_GameFrame"
+addr = 0xd3c8f0
+type = "long long"
+
+[header.args]

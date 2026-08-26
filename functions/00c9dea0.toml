@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420799Z
+addr = 0xc9dea0
+size = 0x12
+name = "CBaseEntity_ScriptInputKill"
+
+[header]
+name = "CBaseEntity_ScriptInputKill"
+addr = 0xc9dea0
+
+[header.args]

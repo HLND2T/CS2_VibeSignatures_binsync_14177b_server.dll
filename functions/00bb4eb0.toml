@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420586Z
+addr = 0xbb4eb0
+size = 0x53
+name = "CGameEventManager_Init"
+type = "char"
+
+[header]
+name = "CGameEventManager_Init"
+addr = 0xbb4eb0
+type = "char"
+
+[header.args]

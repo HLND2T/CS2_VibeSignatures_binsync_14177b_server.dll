@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.421109Z
+addr = 0x1255ea0
+size = 0x382
+name = "CEntityIOOutput_FireOutputInternal"
+type = "long long"
+
+[header]
+name = "CEntityIOOutput_FireOutputInternal"
+addr = 0x1255ea0
+type = "long long"
+
+[header.args]

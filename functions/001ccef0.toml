@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:06.193866Z
+addr = 0x1ccef0
+size = 0x14af
+name = "CCSPlayerPawn_Event_Killed"
+type = "char"
+
+[header]
+name = "CCSPlayerPawn_Event_Killed"
+addr = 0x1ccef0
+type = "char"
+
+[header.args]

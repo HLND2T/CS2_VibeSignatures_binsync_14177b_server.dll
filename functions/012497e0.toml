@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:25.872377Z
+addr = 0x12497e0
+size = 0x5d9
+name = "CEntitySystem_HelperExecuteQueuedSpawn"
+type = "int"
+
+[header]
+name = "CEntitySystem_HelperExecuteQueuedSpawn"
+addr = 0x12497e0
+type = "int"
+
+[header.args]

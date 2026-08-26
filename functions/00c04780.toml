@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420679Z
+addr = 0xc04780
+size = 0xe
+name = "CLoopModeGame_OnServerBeginSimulate"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnServerBeginSimulate"
+addr = 0xc04780
+type = "long long"
+
+[header.args]

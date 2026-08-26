@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:23.924440Z
+addr = 0xde31e0
+size = 0x129
+name = "PhysEnableEntityCollisions"
+type = "void"
+
+[header]
+name = "PhysEnableEntityCollisions"
+addr = 0xde31e0
+type = "void"
+
+[header.args]

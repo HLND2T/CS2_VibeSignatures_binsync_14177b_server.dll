@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420801Z
+addr = 0xc9dec0
+size = 0x3c
+name = "CBaseEntity_ScriptNextMovePeer"
+
+[header]
+name = "CBaseEntity_ScriptNextMovePeer"
+addr = 0xc9dec0
+
+[header.args]

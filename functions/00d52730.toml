@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420928Z
+addr = 0xd52730
+size = 0x10a
+name = "CGameRules_SetGamePaused"
+type = "long long"
+
+[header]
+name = "CGameRules_SetGamePaused"
+addr = 0xd52730
+type = "long long"
+
+[header.args]

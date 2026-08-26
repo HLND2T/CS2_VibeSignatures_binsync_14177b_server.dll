@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420909Z
+addr = 0xd46c40
+size = 0x26
+name = "CSource2GameClients_ClientSettingsChanged"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ClientSettingsChanged"
+addr = 0xd46c40
+type = "long long"
+
+[header.args]

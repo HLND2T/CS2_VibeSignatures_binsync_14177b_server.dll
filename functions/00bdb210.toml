@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:17.150490Z
+addr = 0xbdb210
+size = 0x3c3
+name = "CSource2EntitySystem_StaticInit"
+type = "char"
+
+[header]
+name = "CSource2EntitySystem_StaticInit"
+addr = 0xbdb210
+type = "char"
+
+[header.args]

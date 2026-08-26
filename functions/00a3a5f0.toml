@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420320Z
+addr = 0xa3a5f0
+size = 0x96
+name = "CCSPlayerController_GetThinkFunction"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CCSPlayerController_GetThinkFunction"
+addr = 0xa3a5f0
+type = "long long (__fastcall *)()"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420481Z
+addr = 0xb12670
+size = 0x1e
+name = "CBaseModelEntity_GetModelScale"
+
+[header]
+name = "CBaseModelEntity_GetModelScale"
+addr = 0xb12670
+
+[header.args]

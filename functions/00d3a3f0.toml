@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420846Z
+addr = 0xd3a3f0
+size = 0x76
+name = "CGameRulesGameSystem_OnGameInit"
+type = "long long"
+
+[header]
+name = "CGameRulesGameSystem_OnGameInit"
+addr = 0xd3a3f0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.421026Z
+addr = 0x1242a60
+size = 0x90
+name = "CEntitySystem_ClearEntityDatabase"
+type = "double"
+
+[header]
+name = "CEntitySystem_ClearEntityDatabase"
+addr = 0x1242a60
+type = "double"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420906Z
+addr = 0xd46990
+size = 0x2ac
+name = "CGameRules_ClientSettingsChanged"
+type = "long long"
+
+[header]
+name = "CGameRules_ClientSettingsChanged"
+addr = 0xd46990
+type = "long long"
+
+[header.args]

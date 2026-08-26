@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:19.652338Z
+addr = 0xc85ee0
+size = 0x3fa
+name = "CBasePlayerPawn_Event_Killed"
+type = "char"
+
+[header]
+name = "CBasePlayerPawn_Event_Killed"
+addr = 0xc85ee0
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.419834Z
+addr = 0x14e720
+size = 0x21
+name = "CBaseEntity_AddChangeAccessorPath"
+type = "long long"
+
+[header]
+name = "CBaseEntity_AddChangeAccessorPath"
+addr = 0x14e720
+type = "long long"
+
+[header.args]

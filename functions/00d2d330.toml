@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420839Z
+addr = 0xd2d330
+size = 0x78
+name = "CEnvShake_Spawn"
+type = "void"
+
+[header]
+name = "CEnvShake_Spawn"
+addr = 0xd2d330
+type = "void"
+
+[header.args]

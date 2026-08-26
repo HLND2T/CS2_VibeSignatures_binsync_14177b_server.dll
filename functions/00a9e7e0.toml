@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420384Z
+addr = 0xa9e7e0
+size = 0x29b
+name = "CCSPlayer_MovementServices_WalkMove"
+type = "void"
+
+[header]
+name = "CCSPlayer_MovementServices_WalkMove"
+addr = 0xa9e7e0
+type = "void"
+
+[header.args]

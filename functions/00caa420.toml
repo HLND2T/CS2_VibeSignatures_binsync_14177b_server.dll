@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420829Z
+addr = 0xcaa420
+size = 0x5d8
+name = "CMomentaryRotButton_Use"
+type = "double"
+
+[header]
+name = "CMomentaryRotButton_Use"
+addr = 0xcaa420
+type = "double"
+
+[header.args]

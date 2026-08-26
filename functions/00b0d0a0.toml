@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420467Z
+addr = 0xb0d0a0
+size = 0x5
+name = "CCSPlayerController_ResetForceTeamThink"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_ResetForceTeamThink"
+addr = 0xb0d0a0
+type = "long long"
+
+[header.args]

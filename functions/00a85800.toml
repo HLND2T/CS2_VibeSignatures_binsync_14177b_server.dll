@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420363Z
+addr = 0xa85800
+size = 0x12a5
+name = "FindUseEntity"
+type = "unsigned long long *"
+
+[header]
+name = "FindUseEntity"
+addr = 0xa85800
+type = "unsigned long long *"
+
+[header.args]

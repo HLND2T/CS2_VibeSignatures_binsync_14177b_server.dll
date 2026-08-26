@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:06.544121Z
+addr = 0x228c40
+size = 0x2d6
+name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
+type = "void"
+
+[header]
+name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
+addr = 0x228c40
+type = "void"
+
+[header.args]

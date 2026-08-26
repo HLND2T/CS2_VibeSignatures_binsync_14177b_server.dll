@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420545Z
+addr = 0xb7c6c0
+size = 0xe
+name = "CEntitySaveRestoreBlockHandler_PostRestore"
+type = "long long"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_PostRestore"
+addr = 0xb7c6c0
+type = "long long"
+
+[header.args]

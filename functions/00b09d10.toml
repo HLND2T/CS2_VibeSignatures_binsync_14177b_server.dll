@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420463Z
+addr = 0xb09d10
+size = 0xc1
+name = "CBaseModelEntity_DamageDecal"
+type = "unsigned long long *"
+
+[header]
+name = "CBaseModelEntity_DamageDecal"
+addr = 0xb09d10
+type = "unsigned long long *"
+
+[header.args]

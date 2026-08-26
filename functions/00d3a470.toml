@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420848Z
+addr = 0xd3a470
+size = 0x84
+name = "CGameRulesGameSystem_OnGameShutdown"
+type = "void"
+
+[header]
+name = "CGameRulesGameSystem_OnGameShutdown"
+addr = 0xd3a470
+type = "void"
+
+[header.args]

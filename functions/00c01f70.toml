@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420666Z
+addr = 0xc01f70
+size = 0x162
+name = "CLoopModeGame_ShutdownServer"
+type = "void"
+
+[header]
+name = "CLoopModeGame_ShutdownServer"
+addr = 0xc01f70
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420583Z
+addr = 0xbb3dc0
+size = 0xa
+name = "CEntitySystem_GetSpawnGroupWorldId"
+type = "unsigned int *"
+
+[header]
+name = "CEntitySystem_GetSpawnGroupWorldId"
+addr = 0xbb3dc0
+type = "unsigned int *"
+
+[header.args]

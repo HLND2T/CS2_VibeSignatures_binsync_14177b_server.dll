@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420810Z
+addr = 0xc9e130
+size = 0x5e
+name = "CBaseEntity_ScriptSoundDuration"
+
+[header]
+name = "CBaseEntity_ScriptSoundDuration"
+addr = 0xc9e130
+
+[header.args]

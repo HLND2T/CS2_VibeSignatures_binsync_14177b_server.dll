@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:25.074081Z
+addr = 0x1241550
+size = 0x2bd
+name = "CEntitySystem_PrecacheEntity"
+type = "long long"
+
+[header]
+name = "CEntitySystem_PrecacheEntity"
+addr = 0x1241550
+type = "long long"
+
+[header.args]

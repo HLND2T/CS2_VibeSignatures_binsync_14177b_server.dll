@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420200Z
+addr = 0x619690
+size = 0x1b
+name = "CBaseEntity_ScriptEyeAngles"
+
+[header]
+name = "CBaseEntity_ScriptEyeAngles"
+addr = 0x619690
+
+[header.args]

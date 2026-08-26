@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420681Z
+addr = 0xc04790
+size = 0x325
+name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
+type = "_UNKNOWN **"
+
+[header]
+name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
+addr = 0xc04790
+type = "_UNKNOWN **"
+
+[header.args]

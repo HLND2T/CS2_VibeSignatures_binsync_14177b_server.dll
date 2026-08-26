@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:17.194568Z
+addr = 0xbdb720
+size = 0x60d
+name = "CEntity2SaveRestore_StreamEntitiesFromFile"
+type = "long long"
+
+[header]
+name = "CEntity2SaveRestore_StreamEntitiesFromFile"
+addr = 0xbdb720
+type = "long long"
+
+[header.args]

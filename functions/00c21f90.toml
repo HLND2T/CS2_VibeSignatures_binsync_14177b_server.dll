@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:18.651536Z
+addr = 0xc21f90
+size = 0x4fb
+name = "CCSPlayer_MovementServices_ProcessMovement"
+type = "long long"
+
+[header]
+name = "CCSPlayer_MovementServices_ProcessMovement"
+addr = 0xc21f90
+type = "long long"
+
+[header.args]

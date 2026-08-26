@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420895Z
+addr = 0xd457a0
+size = 0x137
+name = "CSource2GameClients_ClientCommand"
+type = "void"
+
+[header]
+name = "CSource2GameClients_ClientCommand"
+addr = 0xd457a0
+type = "void"
+
+[header.args]

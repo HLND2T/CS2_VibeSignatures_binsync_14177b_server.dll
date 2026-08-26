@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420338Z
+addr = 0xa5c7c0
+size = 0x125
+name = "CCSPlayerController_Respawn"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_Respawn"
+addr = 0xa5c7c0
+type = "long long"
+
+[header.args]

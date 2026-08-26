@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420738Z
+addr = 0xc72f50
+size = 0x1bf
+name = "CBaseEntity_Activate"
+type = "long long"
+
+[header]
+name = "CBaseEntity_Activate"
+addr = 0xc72f50
+type = "long long"
+
+[header.args]

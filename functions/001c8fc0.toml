@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.419947Z
+addr = 0x1c8fc0
+size = 0x15a
+name = "ClientPutInServer"
+type = "long long"
+
+[header]
+name = "ClientPutInServer"
+addr = 0x1c8fc0
+type = "long long"
+
+[header.args]

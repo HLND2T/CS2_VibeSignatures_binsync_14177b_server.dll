@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420457Z
+addr = 0xae5950
+size = 0x169
+name = "CCSPlayer_WeaponServices_SelectItem"
+type = "char"
+
+[header]
+name = "CCSPlayer_WeaponServices_SelectItem"
+addr = 0xae5950
+type = "char"
+
+[header.args]

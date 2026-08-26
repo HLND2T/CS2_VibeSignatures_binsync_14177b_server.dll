@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.419880Z
+addr = 0x159a60
+size = 0x3
+name = "IGameSystem_OnServerAdvanceTick"
+
+[header]
+name = "IGameSystem_OnServerAdvanceTick"
+addr = 0x159a60
+
+[header.args]

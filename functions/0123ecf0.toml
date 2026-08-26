@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.421008Z
+addr = 0x123ecf0
+size = 0x19c
+name = "CEntitySystem_Activate"
+type = "char"
+
+[header]
+name = "CEntitySystem_Activate"
+addr = 0x123ecf0
+type = "char"
+
+[header.args]

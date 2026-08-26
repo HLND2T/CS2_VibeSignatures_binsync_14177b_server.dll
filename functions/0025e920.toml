@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.419996Z
+addr = 0x25e920
+size = 0x29a
+name = "CCSPlayerPawnBase_CheckForIdle"
+type = "void"
+
+[header]
+name = "CCSPlayerPawnBase_CheckForIdle"
+addr = 0x25e920
+type = "void"
+
+[header.args]

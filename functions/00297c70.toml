@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420012Z
+addr = 0x297c70
+size = 0xabc
+name = "FireBullets"
+type = "void"
+
+[header]
+name = "FireBullets"
+addr = 0x297c70
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420113Z
+addr = 0x3df310
+size = 0xa3
+name = "CBaseEntity_SetMoveType"
+type = "long long"
+
+[header]
+name = "CBaseEntity_SetMoveType"
+addr = 0x3df310
+type = "long long"
+
+[header.args]

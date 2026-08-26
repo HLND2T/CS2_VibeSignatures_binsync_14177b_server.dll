@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420175Z
+addr = 0x59e5e0
+size = 0x3cb
+name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
+type = "void"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
+addr = 0x59e5e0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:24.941817Z
+addr = 0x123fc70
+size = 0x279
+name = "CEntitySystem_AddEntityToNameMap"
+type = "void"
+
+[header]
+name = "CEntitySystem_AddEntityToNameMap"
+addr = 0x123fc70
+type = "void"
+
+[header.args]

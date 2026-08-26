@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:12.426365Z
+addr = 0x97ee00
+size = 0x208
+name = "CSmokeGrenadeProjectile_Detonate"
+type = "long long"
+
+[header]
+name = "CSmokeGrenadeProjectile_Detonate"
+addr = 0x97ee00
+type = "long long"
+
+[header.args]

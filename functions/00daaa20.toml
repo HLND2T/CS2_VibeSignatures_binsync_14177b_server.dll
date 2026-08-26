@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420946Z
+addr = 0xdaaa20
+size = 0x34
+name = "CBaseEntity_PhysicsTouch"
+type = "long long"
+
+[header]
+name = "CBaseEntity_PhysicsTouch"
+addr = 0xdaaa20
+type = "long long"
+
+[header.args]

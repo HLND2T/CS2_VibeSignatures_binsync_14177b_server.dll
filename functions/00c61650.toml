@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420721Z
+addr = 0xc61650
+size = 0x48
+name = "UTIL_PlayerSlotToPlayerPawn"
+type = "long long"
+
+[header]
+name = "UTIL_PlayerSlotToPlayerPawn"
+addr = 0xc61650
+type = "long long"
+
+[header.args]

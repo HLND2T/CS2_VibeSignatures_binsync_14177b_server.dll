@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420184Z
+addr = 0x5dc560
+size = 0x5f0e
+name = "CBaseEntity_GetScriptDescInternal"
+type = "long long"
+
+[header]
+name = "CBaseEntity_GetScriptDescInternal"
+addr = 0x5dc560
+type = "long long"
+
+[header.args]

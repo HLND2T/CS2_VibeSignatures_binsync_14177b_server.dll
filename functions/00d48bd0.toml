@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420915Z
+addr = 0xd48bd0
+size = 0xf5
+name = "CCSGameRules_FindPickerEntity"
+type = "long long"
+
+[header]
+name = "CCSGameRules_FindPickerEntity"
+addr = 0xd48bd0
+type = "long long"
+
+[header.args]

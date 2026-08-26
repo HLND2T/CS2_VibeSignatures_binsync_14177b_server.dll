@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420266Z
+addr = 0x61a230
+size = 0x33
+name = "CBaseModelEntity_ScriptSetSingleMeshGroup"
+
+[header]
+name = "CBaseModelEntity_ScriptSetSingleMeshGroup"
+addr = 0x61a230
+
+[header.args]

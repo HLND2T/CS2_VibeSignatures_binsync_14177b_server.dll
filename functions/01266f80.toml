@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:27.421095Z
+addr = 0x1266f80
+size = 0x17a
+name = "CEntityInstance_FindOutputsByName"
+type = "long long"
+
+[header]
+name = "CEntityInstance_FindOutputsByName"
+addr = 0x1266f80
+type = "long long"
+
+[header.args]

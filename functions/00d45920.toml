@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420897Z
+addr = 0xd45920
+size = 0xbb
+name = "CSource2GameClients_ClientConnect"
+type = "char"
+
+[header]
+name = "CSource2GameClients_ClientConnect"
+addr = 0xd45920
+type = "char"
+
+[header.args]

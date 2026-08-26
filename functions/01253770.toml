@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.421105Z
+addr = 0x1253770
+size = 0x347
+name = "CEntitySystem_Spawn"
+type = "long long"
+
+[header]
+name = "CEntitySystem_Spawn"
+addr = 0x1253770
+type = "long long"
+
+[header.args]

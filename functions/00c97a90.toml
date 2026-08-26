@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:33:54.420775Z
+addr = 0xc97a90
+size = 0x1f9
+name = "CBaseEntity_OnSetDormant"
+type = "long long"
+
+[header]
+name = "CBaseEntity_OnSetDormant"
+addr = 0xc97a90
+type = "long long"
+
+[header.args]

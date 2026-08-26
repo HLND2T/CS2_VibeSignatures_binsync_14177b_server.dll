@@ -1,0 +1,12 @@
+last_change = 2026-08-26T12:34:07.459227Z
+addr = 0x2e6800
+size = 0x3e6
+name = "CCSBot_Upkeep"
+type = "long long"
+
+[header]
+name = "CCSBot_Upkeep"
+addr = 0x2e6800
+type = "long long"
+
+[header.args]

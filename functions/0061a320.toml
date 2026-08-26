@@ -1,0 +1,10 @@
+last_change = 2026-08-26T12:33:54.420278Z
+addr = 0x61a320
+size = 0x52
+name = "CBaseEntity_Script_Trigger"
+
+[header]
+name = "CBaseEntity_Script_Trigger"
+addr = 0x61a320
+
+[header.args]
